@@ -15,12 +15,12 @@ weight = 60
 
 +++
 
-I have taken on various teaching responsibilities in the field of applying quantitative methods. 
+Throughout my engagement, I have taken on various teaching responsibilities in the field of applying quantitative methods. 
 
 ### Teaching Assistant      
-**Applied Bayesian Statistics**, Utrecht Summer School, May 2018          
-**Structural Equation Modeling with Mplus**, Utrecht Summer School, July 2017      
-**Business Statistics**, Introductory Statistics course at De Bijlespartner Amsterdam, March 2017 - May 2017        
+**Applied Bayesian Statistics**, Utrecht Summer School course, May 2018          
+**Structural Equation Modeling with Mplus**, Utrecht Summer School course, July 2017      
+**Business Statistics**, Introductory statistics course at De Bijlespartner Amsterdam, March 2017 - May 2017        
 
 ### Tutor    
 **Instrumental Variables in Psychology**, B.A. Thesis by Hugo Hanema, Utrecht University
