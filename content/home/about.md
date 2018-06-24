@@ -19,7 +19,7 @@ weight = 1
 [[education.courses]]
   course = "PhD Candidate in Political Science"
   institution = "Graduate School of Economic and Social Sciences, University of Mannheim"
-  year = ongoing
+  year = 2018
 
 [[education.courses]]
   course = "M.Sc. in Methodology and Statistics"
