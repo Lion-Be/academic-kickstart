@@ -6,7 +6,7 @@ widget = "publications_selected"
 active = true
 date = 2016-04-20T00:00:00
 
-title = "Publications"
+title = "Peer-reviewed articles"
 subtitle = ""
 
 # Order that this section will appear in.
@@ -32,6 +32,6 @@ publication_type = "-1"
 +++
 
 ## Peer-reviewed articles
-Behrens, Lion and Ingo Rohlfing. 2018. "Not so dierent in present attitudes and behavior, but expected future
+Behrens, Lion and Ingo Rohlfing. 2018. "Not so different in present attitudes and behavior, but expected future
 membership - A technical replication of a study of party youth in six European democracies". *Research & Politics*,
-Online Access, 1-5.
+Online Access, 1-5. [PDF](http://journals.sagepub.com/doi/full/10.1177/2053168018764876), [Reproduction](https://osf.io/8svhu/)
