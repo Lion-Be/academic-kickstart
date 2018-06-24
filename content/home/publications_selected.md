@@ -6,7 +6,7 @@ widget = "publications_selected"
 active = true
 date = 2016-04-20T00:00:00
 
-title = "Selected Publications"
+title = "Publications"
 subtitle = ""
 
 # Order that this section will appear in.
@@ -31,3 +31,7 @@ list_format = 1
 publication_type = "-1"
 +++
 
+## Peer-reviewed articles
+Behrens, Lion and Ingo Rohlfing. 2018. "Not so dierent in present attitudes and behavior, but expected future
+membership - A technical replication of a study of party youth in six European democracies". *Research & Politics*,
+Online Access, 1-5.
