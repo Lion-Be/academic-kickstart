@@ -5,7 +5,7 @@ widget = "publications"
 active = true
 date = 2016-04-20T00:00:00
 
-title = "Recent Publications"
+title = "Work in progress"
 subtitle = ""
 
 # Order that this section will appear in.
@@ -35,4 +35,10 @@ publication_type = "-1"
 # Exclude publications that are shown in the Selected Publications widget?
 exclude_selected = false
 +++
+Behrens, Lion and Rebecca M Kuiper. "A Bayesian method for synthesizing evidence from heterogeneous statistical models". *Working Paper*.
+
+Behrens, Lion and Ingo Rohlfing. "Bayesianism in multi-method research". *In preparation*.
+
+Buskens, Vincent, Werner Raub, Lion Behrens, Rebecca M. Kuiper and Irene Klugkist. "Embeddedness effects
+on trust in social and economic exchange: A Bayesian analysis of evidence from four studies". *In preparation*.
 
