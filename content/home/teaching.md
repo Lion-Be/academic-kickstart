@@ -15,6 +15,12 @@ weight = 60
 
 +++
 
-This is an example of using the *custom* widget to create your own homepage section.
+I have taken on teaching responsibilities in the field of applying quantitative methods. 
 
-To remove this section, either delete `content/home/teaching.md` or edit the frontmatter of the file to deactivate the widget by setting `active = false`. Hello!
+**Teaching Assistant**
+Applied Bayesian Statistics, Utrecht Summer School, May 2018
+Structural Equation Modeling with Mplus, Utrecht Summer School, July 2017
+Business Statistics, Introductory Statistics course at De Bijlespartner Amsterdam, March 2017 - May 2017
+
+**Tutor**
+Instrumental Variables in Psychology, B.A. Thesis by Hugo Hanema, Utrecht University
