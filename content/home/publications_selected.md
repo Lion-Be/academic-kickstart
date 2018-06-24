@@ -30,8 +30,6 @@ list_format = 1
 #  6: Book chapter
 publication_type = "-1"
 +++
-
-## Peer-reviewed articles
 Behrens, Lion and Ingo Rohlfing. 2018. "Not so different in present attitudes and behavior, but expected future
 membership - A technical replication of a study of party youth in six European democracies". *Research & Politics*,
-Online Access, 1-5. [PDF](http://journals.sagepub.com/doi/full/10.1177/2053168018764876), [Reproduction](https://osf.io/8svhu/)
+Online Access, 1-5. [[PDF]](http://journals.sagepub.com/doi/full/10.1177/2053168018764876) [[Reproduction]](https://osf.io/8svhu/)
