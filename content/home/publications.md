@@ -35,10 +35,9 @@ publication_type = "-1"
 # Exclude publications that are shown in the Selected Publications widget?
 exclude_selected = false
 +++
-Behrens, Lion and Rebecca M Kuiper. "A Bayesian method for synthesizing evidence from heterogeneous statistical models". *Working Paper*.
+**A Bayesian method for synthesizing evidence from heterogeneous statistical models** - Working paper, with Rebecca M. Kuiper
 
-Behrens, Lion and Ingo Rohlfing. "Bayesianism in multi-method research". *In preparation*.
+**Bayesian nested analysis** - In preparation, with Ingo Rohlfing
 
-Buskens, Vincent, Werner Raub, Lion Behrens, Rebecca M. Kuiper and Irene Klugkist. "Embeddedness effects
-on trust in social and economic exchange: A Bayesian analysis of evidence from four studies". *In preparation*.
+**Embeddedness effects on trust in social and economic exchange: A Bayesian analysis of evidence from four studies** - In preparation, with Vincent Buskens, Werner Raub, Rebecca M. Kuiper and Irene Klugkist
 
