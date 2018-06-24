@@ -241,7 +241,7 @@ enableGitInfo = false
   [[params.social]]
     icon = "cv"
     icon_pack = "ai"
-    link = "//github.com/Lion-Be/academic-kickstart/blob/master/cv.pdf"
+    link = "//github.com/Lion-Be/Lion-Be.github.io/blob/master/cv.pdf"
     
 # Navigation Links
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
