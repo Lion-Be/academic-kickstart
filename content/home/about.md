@@ -10,14 +10,16 @@ weight = 1
 # List your academic interests.
 [interests]
   interests = [
-    "Bayesian Statistics",
-    "Statistical Simulation",
-    "Political Participation and Behavior"
+    "Electoral Fraud",
+    "Legislative Behavior",
+    "Statistical Modeling", 
+    "Monte Carlo Simulation", 
+    "Bayesian Inference"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD Candidate in Political Science"
+  course = "Ph.D. in Political Science"
   institution = "Graduate School of Economic and Social Sciences, University of Mannheim"
   year = ""
 
