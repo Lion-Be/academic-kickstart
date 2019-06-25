@@ -35,9 +35,13 @@ publication_type = "-1"
 # Exclude publications that are shown in the Selected Publications widget?
 exclude_selected = false
 +++
-**A Bayesian method for synthesizing evidence from heterogeneous statistical models** - Working paper, with Rebecca M. Kuiper
+"Detecting systematic electoral interference from undervoting irregularities"
 
-**Bayesian nested analysis** - In preparation, with Ingo Rohlfing
+"Opposition strategies in legislative review. Tracing the strategic use of legislative amendments using syntax-aware automated text-analysis", with Dominic Nyhuis and Thomas Gschwend
 
-**Embeddedness effects on trust in social and economic exchange: A Bayesian analysis of evidence from four studies** - In preparation, with Vincent Buskens, Werner Raub, Rebecca M. Kuiper and Irene Klugkist
+"A Bayesian method for synthesizing evidence from heterogeneous statistical models", with Rebecca M. Kuiper
+
+"Bayesian nested analysis", with Ingo Rohlfing
+
+"Embeddedness effects on trust in social and economic exchange: A Bayesian analysis of evidence from four studies", with Vincent Buskens, Werner Raub, Rebecca M. Kuiper and Irene Klugkist
 
